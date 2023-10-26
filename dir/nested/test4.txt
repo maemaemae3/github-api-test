@@ -1,0 +1,2 @@
+this is content of test4.txt
+hello!
